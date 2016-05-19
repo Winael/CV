@@ -1,0 +1,73 @@
+
+body {
+	font-size: 10px;
+	background: #fff url("../img/image-background-paper.png");
+}
+
+#titre {
+	color: #e95420;
+}
+
+#sous-titre {
+	font-size: 20px;
+	color: #e95420;
+}
+
+#entete {
+	background: url(../img/image-background-paper.png) repeat-y center fixed #fff;
+}
+
+#info {
+	display: flex;
+	margin-left: -10px;
+}
+
+#info p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+dd {
+    margin-left: 10px;
+}
+
+#infoplus {
+	display: flex;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+#infoplus p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.competences-content {
+	display: flex;
+	padding-left: 20px;
+	margin-bottom: -30px;
+}
+
+.skill {
+	padding-right: 20px;
+}
+
+li {
+	margin-top: -5px;
+}
+
+.avance {
+    color: #37c700;
+}
+
+.moyen {
+    color: #877800;
+}
+
+.debutant {
+	color: #bc4300;
+}
