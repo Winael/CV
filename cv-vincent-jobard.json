@@ -1,0 +1,86 @@
+{
+  "title": "Ingénieur Système Agile",
+  "subtitle": "DevOps Philosopher, Agile Spirit, Management 3.0 enthousiast",
+  "surname": "JOBARD",
+  "firstname": "Vincent",
+  "day_of_birth": 11,
+  "month_of_birth": 8,
+  "year_of_birth": 1982,
+  "age": 37,
+  "permis_b": true,
+  "business_segment": [
+    "Industrie pharmaceutique",
+    "Edition logiciel",
+    "Banque, Finance, Assurance",
+    "Télécommunication",
+    "Grande Distribution"
+  ],
+  "competencies": [
+    "Agile",
+    "Scrum",
+    "Communication",
+    "Community Management",
+    "Facility Management",
+    "Automatisation",
+    "Orchestration de conteneurs",
+    "API Gateway Management",
+    "Git Workflow",
+    "IaaS",
+    "Montoring",
+    "Scripting",
+    "Linux",
+    "Expert Support Applicatif Multi-niveaux",
+    "Social Networking",
+    "Audiovisuel"
+  ],
+  "technologies": {
+    "database": {
+      "Oracle": {
+        "level": 2
+      },
+      "DB2": {
+        "level": 2
+      }
+    },
+    "system": {
+      "Windows": {
+        "level": 3
+      },
+      "Linux": {
+        "Debian/Ubuntu": {
+          "level": 4
+        },
+        "Red Hat": {
+          "level": 3
+        }
+      },
+      "Unix": {
+        "AIX/HPux": {
+          "level": 3
+        }
+      }
+    },
+    "office": {
+      "MS Office": {
+        "level": 3
+      },
+      "LibreOffice": {
+        "level": 3
+      }
+    },
+    "containers": {
+      "Kubernetes": {
+        "level": 3
+      },
+      "Docker_Swarm": {
+        "level": 3
+      },
+      "Docker": {
+        "level": 3
+      },
+      "LXC/LXD": {
+        "level": 3
+      }
+    }
+  }
+}
